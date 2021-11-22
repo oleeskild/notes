@@ -1,0 +1,33 @@
+.content {
+    max-width: 900px;
+    margin: auto;
+    font-size: 22px;
+    line-height: 1.5;
+    color: white;
+}
+
+.content h1 {
+    color: yellow;
+}
+
+.content h2 {
+    color: rgb(129, 82, 129);
+}
+
+.content h3 {
+    color: rgb(90, 226, 90);
+}
+
+.mermaid svg{
+    background: white;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+
+body {
+    background-color: rgb(32, 31, 31); ;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
