@@ -11,7 +11,7 @@
 }
 
 .content h2 {
-    color: rgb(129, 82, 129);
+    color: rgb(255, 100, 100);
 }
 
 .content h3 {
@@ -31,3 +31,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+
+a{
+    text-decoration: none;
+    padding-bottom: 3px;
+    border-bottom: 1px solid rgb(97, 186, 245);
+    color: rgb(97, 186, 245);
+}
