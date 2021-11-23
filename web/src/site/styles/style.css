@@ -24,6 +24,13 @@
     padding: 20px;
 }
 
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
 
 body {
     background-color: rgb(32, 31, 31); ;
@@ -37,4 +44,8 @@ a{
     padding-bottom: 3px;
     border-bottom: 1px solid rgb(97, 186, 245);
     color: rgb(97, 186, 245);
+}
+
+.font-bg{
+    font-size:92px;
 }
